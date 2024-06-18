@@ -1,0 +1,59 @@
+.App {
+  text-align: center;
+  padding-top: 50px; /* Add padding to the top */
+}
+
+h1 {
+  font-family: 'Impact', 'Arial Black', sans-serif; /* Use a bold, blocky font */
+  font-size: 5em; /* Adjust the size as needed */
+  color: #cc0000; /* Set the color to red */
+  text-shadow: 3px 3px #000; /* Add a shadow to the text */
+  margin: 0; /* Remove default margin */
+}
+
+.doors {
+  display: flex;
+  justify-content: center;
+  margin: 20px;
+}
+
+button {
+  margin-top: 20px;
+  font-family: 'Impact', 'Arial Black', sans-serif; /* Use the same font family */
+  font-size: 2.5em; /* Make the button text larger */
+  color: #cc0000; /* Set the color to red */
+  text-shadow: 2px 2px #000; /* Add a shadow to the text */
+  background-color: #fff; /* Set background color to white */
+  border: 2px solid #cc0000; /* Add a border */
+  padding: 10px 20px; /* Add padding */
+  cursor: pointer; /* Change cursor to pointer */
+  transition: all 0.3s ease; /* Add transition for smooth hover effect */
+}
+
+button:hover {
+  background-color: #cc0000; /* Change background on hover */
+  color: #fff; /* Change text color on hover */
+}
+
+/* Media Queries for Mobile Responsiveness */
+@media (max-width: 768px) {
+  h1 {
+    font-size: 3.5em; /* Reduce font size for smaller screens */
+  }
+
+  button {
+    font-size: 2em; /* Reduce button text size */
+    padding: 8px 16px; /* Adjust padding */
+  }
+}
+
+@media (max-width: 480px) {
+  h1 {
+    font-size: 2.9em; /* Further reduce font size for very small screens */
+  }
+
+  button {
+    font-size: 1.8em; /* Further reduce button text size */
+    padding: 6px 12px; /* Adjust padding */
+  }
+}
