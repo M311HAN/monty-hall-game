@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/monty-hall-game/static/css/main.aaee5529.css",
+    "main.js": "/monty-hall-game/static/js/main.e52bde7f.js",
+    "static/js/453.fb5af353.chunk.js": "/monty-hall-game/static/js/453.fb5af353.chunk.js",
+    "index.html": "/monty-hall-game/index.html",
+    "main.aaee5529.css.map": "/monty-hall-game/static/css/main.aaee5529.css.map",
+    "main.e52bde7f.js.map": "/monty-hall-game/static/js/main.e52bde7f.js.map",
+    "453.fb5af353.chunk.js.map": "/monty-hall-game/static/js/453.fb5af353.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aaee5529.css",
+    "static/js/main.e52bde7f.js"
+  ]
+}
