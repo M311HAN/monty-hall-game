@@ -2,7 +2,7 @@
 
 Check out the live demo [here](https://M311HAN.github.io/monty-hall-game/).
 
-![Monty Hall Problem](src/Monty-Hall.png)
+![Monty Hall Problem](public/Monty-Hall.png)
 
 A simple React app to simulate the Monty Hall problem game.
 
